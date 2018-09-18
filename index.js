@@ -1,0 +1,1 @@
+module.exports = JSON.parse(require('fs').readFileSync(require.resolve('./.stylelintrc'), 'utf8').toString());
