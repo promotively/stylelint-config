@@ -2,20 +2,23 @@
   "name": "@promotively/stylelint-config",
   "author": {
     "name": "Steven Ewing",
-    "email": "steven.ewing@promotively.com",
-    "url": "https://www.promotively.com"
+    "email": "steven.ewing@promotively.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://www.github.com/promotively/stylelint-config.git"
+    "url": "https://www.github.com/promotively/stylelint-config"
   },
   "homepage": "https://www.promotively.com",
   "version": "1.0.0",
   "main": "index.js",
-  "engines": {
-    "node": "10.10.0",
-    "yarn": "1.9.4"
-  },
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "styled-components",
+    "javascript",
+    "es6",
+    "css"
+  ],
   "peerDependencies": {
     "stylelint": "^9.5.0",
     "stylelint-csstree-validator": "^1.3.0",
