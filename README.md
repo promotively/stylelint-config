@@ -17,7 +17,7 @@ With NPM
 
 `npm install -D @promotively/stylelint-config`
 
-## Usage
+## Setup
 
 Add package to your stylelint config file.
 
@@ -26,3 +26,11 @@ Add package to your stylelint config file.
   "extends": ["@promotively/stylelint-config"]
 }
 ```
+
+## Feedback
+
+Feedback is more than welcome via [GitHub](https://www.github.com/promotively), [Twitter](https://www.twitter.com/promotively) or our [Website](https://www.promotively.com).
+
+## License
+
+MIT
