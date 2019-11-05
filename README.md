@@ -29,7 +29,7 @@ Add package to your stylelint config file.
 
 ## Feedback
 
-Feedback is more than welcome via [GitHub](https://www.github.com/promotively), [Twitter](https://www.twitter.com/promotively) or our [Website](https://www.promotively.com).
+Feedback is more than welcome via [GitHub](https://github.com/promotively), [Twitter](https://twitter.com/promotively) or our [Website](https://promotively.com).
 
 ## License
 
