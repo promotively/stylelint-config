@@ -9,7 +9,7 @@
     "url": "https://github.com/promotively/stylelint-config"
   },
   "homepage": "https://promotively.com",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "index.js",
   "keywords": [
     "stylelint",
