@@ -27,9 +27,16 @@ Add package to your stylelint config file.
 }
 ```
 
-## Feedback
+## Contact
 
-Feedback is more than welcome via [GitHub](https://github.com/promotively), [Twitter](https://twitter.com/promotively) or our [Website](https://promotively.com).
+Feel free to reach out using any of the below methods:
+
+- [GitHub](https://github.com/promotively)
+- [FaceBook](https://facebook.com/promotively)
+- [Twitter](https://twitter.com/promotively)
+- [LinkedIn](https://linkedin.com/company/promotively)
+- [Website](https://promotively.com).
+- [Email](mailto:hello@promotively.com)
 
 ## License
 
